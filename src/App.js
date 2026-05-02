@@ -1,8 +1,8 @@
 function App() {
   return (
     <div style={{ fontFamily: 'monospace', maxWidth: '800px', margin: '80px auto', padding: '0 32px' }}>
-      <h1 style={{ color: '#f04a87', fontSize: '32px' }}>AWS CodePipeline Demo</h1>
-      <p style={{ color: '#9bd4b4', fontSize: '16px', lineHeight: '1.7' }}>
+      <h1 style={{ color: '#4af0b9', fontSize: '32px' }}>AWS CodePipeline Demo</h1>
+      <p style={{ color: '#a29bd4', fontSize: '16px', lineHeight: '1.7' }}>
         Simple React application automatically deployed via AWS CodePipeline + CodeBuild + S3.
       </p>
       <div style={{ marginTop: '40px', padding: '20px', background: '#0d1322', border: '1px solid #1e2d4a' }}>
